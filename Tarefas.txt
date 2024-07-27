@@ -1,0 +1,4 @@
+1-) Se possível, colocar uma cor diferente para cada usuário no chat
+2-) Validar o cpf na página de cadastro
+3-) Pedir também a data de nascimento
+4-) Criar o termo
