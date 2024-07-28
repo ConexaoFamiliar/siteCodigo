@@ -1,0 +1,4 @@
+1-) Se possível, colocar uma cor diferente para cada usuário no chat (Já fiz)
+2-) Validar o cpf na página de cadastro (Já fiz)
+3-) Pedir também a data de nascimento (Já fiz)
+4-) Criar o termo (Falta fazer ainda)
